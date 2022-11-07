@@ -39,3 +39,36 @@
     background-color: yellow;
 }
 
+thead{
+    background-color: #1aabe6;
+    color: white;
+}
+
+.blue-bg{
+    background-color: #b2e6f2;
+}
+
+#terza-col{
+    width: 50%;
+}
+
+#related{
+    color: grey;
+    font-weight:bold;
+}
+
+.related-img-1{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    font-weight: bold;
+}
+
+.related-img-2{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    color: white;
+    font-weight: bold;
+}
