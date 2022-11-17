@@ -1,6 +1,6 @@
 Esercizio: The Booleaner
 
-Nome repo: html-css-booleaner
+Nome Repo: html-css-booleaner
 
 Esercizio:
 Riproducete il il layout in allegato utilizzando l'approccio visto in classe.
